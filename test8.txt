@@ -1,0 +1,11 @@
+program
+int a, b;
+read(a);
+read(b);
+if (a > 0)
+if (b > 0)
+    write("Both positive");
+else
+    write("B Negative");
+else
+    write("A Negative");

@@ -1,0 +1,6 @@
+program
+int x = 10;
+int y = 0;
+int z;
+z = x / y; 
+write(z);

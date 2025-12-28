@@ -1,0 +1,3 @@
+program
+int value = 10@;
+write(value);

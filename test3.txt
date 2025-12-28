@@ -1,0 +1,13 @@
+program
+int a;
+int b, max;
+read(a);           
+read(b);
+{
+    if (a - b)     
+        max = a;
+    else
+        max = b;
+    write(max);
+}
+write(a + b);

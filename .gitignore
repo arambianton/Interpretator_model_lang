@@ -1,0 +1,17 @@
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.o
+*.out
+*.exe
+interpreter
+interpetator
+a.out
+
+*~
+*.swp
+*.tmp
+
+~$*.docx
